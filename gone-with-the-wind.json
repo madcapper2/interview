@@ -1,0 +1,52 @@
+{
+  "title": "Gone with the Wind: The visual version",
+  "id": 12875,
+  "pages": [
+    {
+      "id": 12,
+      "number": 1,
+      "image": {
+        "filename": "scarlet.png",
+        "size": 215
+      }
+    },
+    {
+      "id": 15,
+      "number": 5,
+      "image": {
+        "filename": "rhett.jpg",
+        "size": 348
+      }
+    },
+    {
+      "id": 20,
+      "number": 3,
+      "image": {
+        "filename": "curtains.png",
+        "size": 347
+      }
+    },
+    {
+      "id": 48,
+      "number": 10,
+      "image": {
+        "filename": "union.png",
+        "size": 503
+      }
+    },
+    {
+      "id": 14,
+      "number": 8,
+      "image": {
+        "filename": "long.jpg",
+        "size": 156
+      }
+    },
+    {
+      "id": 9,
+      "number": 15,
+      "image": {
+        "filename": "frankly_darling.png",
+        "size": 185
+      }
+    },
